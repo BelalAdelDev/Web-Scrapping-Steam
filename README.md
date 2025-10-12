@@ -1,4 +1,4 @@
-# Web-Scrapping-Steam
+# Web-Scraping-Steam
 
 This Python project automates the process of scraping current Steam market prices for specific inventory items (CS:GO cases), calculates their value after fees, tracks this data over time by saving it to CSV, and provides live and static visualizations of the total inventory worth.
 
